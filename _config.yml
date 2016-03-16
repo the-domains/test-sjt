@@ -1,0 +1,28 @@
+name: test-sjt
+favicon: null
+layout_spectrum: 0.38759673945605755
+typography_spectrum: 0.24544806079939008
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3469583340920508
+  lightness: 0.6543801289517432
+  saturation: 0.44369283597916365
+  rhythmicContrast: 0.7269995980896056
+purpose: []
